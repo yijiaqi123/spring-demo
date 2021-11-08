@@ -1,0 +1,22 @@
+# 应用名称
+spring.application.name: spring-demo
+# 应用服务 WEB 访问端口
+server.port: 8081
+
+# 班级名称
+hunan:
+  swjd:
+    className: 软件19357
+    roomNum: 504
+    user:
+      name: wuhu
+      age: 20
+      girls:
+        - 古力娜扎
+        - 马儿扎哈
+        - 牛马
+
+# 班级的教室编号
+
+
+
